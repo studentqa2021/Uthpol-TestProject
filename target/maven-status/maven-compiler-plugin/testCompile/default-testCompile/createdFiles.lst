@@ -1,0 +1,4 @@
+com\testrun\testng\RunRegressionWithTestng.class
+com\cucumber\testrun\Runner.class
+com\regression\testrun\SmokeTestRun.class
+com\cucumber\testrun\StepDef.class

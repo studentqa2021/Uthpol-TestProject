@@ -1,0 +1,10 @@
+com\util\GetAttribute.class
+com\selenium\pagefactory\SeleniumPageObjectModel.class
+com\generic\OrangeHrmLogin.class
+com\selenium\pagefactory\SeleniumPageFactory.class
+com\util\SeleniumWaiting.class
+com\util\UploadFile.class
+com\util\GetText.class
+com\util\Constant.class
+com\util\Highlighter.class
+com\util\PressButton.class
